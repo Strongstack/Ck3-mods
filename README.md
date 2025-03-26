@@ -14,4 +14,4 @@ To install simply:
    - [Breweries for All](https://steamcommunity.com/sharedfiles/filedetails/?id=3360296511)
    - [Unrestricted legacies](https://steamcommunity.com/sharedfiles/filedetails/?id=3355882108)
    - [Separatist Decision](https://steamcommunity.com/sharedfiles/filedetails/?id=3360296511)
-2. Launch CK3 and enable the mod in the launcher
+2. Launch CK3 and enable the mod in the Paradox launcher.
