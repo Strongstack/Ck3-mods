@@ -1,0 +1,26 @@
+﻿OCELUS_breweries_for_all = {
+
+	categories = {
+		OCELUS Brewery availability
+	}
+
+	default = OCELUS_breweries_for_all_christians
+
+	OCELUS_breweries_vanilla = {
+		flag = GG_can_change_rule
+	}
+
+	OCELUS_breweries_for_all_christians = {
+		flag = GG_can_change_rule
+	}
+
+	OCELUS_breweries_for_all_non_muslim = {
+		flag = GG_can_change_rule
+	}
+
+	OCELUS_breweries_for_all = {
+		flag = GG_can_change_rule
+	}
+	
+}
+
