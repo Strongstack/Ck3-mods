@@ -4,5 +4,5 @@ tags={
 	"Utilities"
 }
 name="Unrestricted Legacies"
-supported_version="1.13.2"
+supported_version="1.15.0"
 remote_file_id="3355882108"

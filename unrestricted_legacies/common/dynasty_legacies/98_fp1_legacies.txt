@@ -1,4 +1,6 @@
-﻿fp1_adventure_legacy_track = {
+﻿# If you want to enable all characters to use adventure legacy, just remove everything between has_dlc_feature = the_northern_lords and the penultimate } before the pillage legacy #
+
+fp1_adventure_legacy_track = {
 	is_shown = {
 		has_dlc_feature = the_northern_lords
 		dynasty = {
